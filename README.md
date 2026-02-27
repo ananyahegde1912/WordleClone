@@ -1,2 +1,4 @@
 # WordleClone
-Wordle Clone is a simple game that is inspired by the wordle game created by New York Times. Users are given 5 chances to guess the correct word.
+A Python implementation of the popular word-guessing game Wordle.
+Players try to guess the hidden word within limited attempts with hints after each guess.
+Includes color-coded feedback for correct and misplaced letters.
