@@ -18,8 +18,8 @@ I created a Wordle Clone game where users have 5 chances to guess a 5-letter wor
 
 ## **How It Works**
 
-- I used `Tkinter` to create the 5x5 grid using `Label` widgets.
-- Keyboard input is handled with `root.bind("<Key>", key_pressed)`, which detects each key typed by the user.
+- I used Tkinter to create the 5x5 grid using Label widgets.
+- Keyboard input is handled with root.bind("<Key>", key_pressed), which detects each key typed by the user.
 - Each time the user presses Enter, the program compares their guess to the secret word and updates the tile colors:
   - Green for correct letter and correct position.
   - Yellow for correct letter but wrong position.
