@@ -24,7 +24,7 @@ I created a Wordle Clone game where users have 5 chances to guess a 5-letter wor
   - Green for correct letter and correct position.
   - Yellow for correct letter but wrong position.
   - Gray for incorrect letter.
-- Messages appear using a `Label` widget to show success or game over notifications.
+- Messages appear using a Label widget to show success or game over notifications.
 
 
 ## **Future Improvements**
